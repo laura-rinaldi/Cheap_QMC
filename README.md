@@ -1,7 +1,9 @@
 # Cheap_3
 
 Python files for cheap quadrature over spline curvilinear polygons and 3D domains (w.r.t. QMC based measures).
-In particular
+In particular each .zip files contain demos that perform experiments respectively over spline curvilinear polygons and 3D complex domains.
+
+Each folder contains in particular
 
 demo_ADE: quadrature of polynomial integrands (to establish numerically the properties regarding the degree of exactness),
 
